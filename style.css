@@ -527,3 +527,6 @@ body{
     color: white;
     transition: all 700ms ease-in-out;
 }
+.img-right-3{
+    box-shadow: 5px 20px 20px black;
+}
